@@ -1,5 +1,4 @@
 # Programming-and-Computational-CIS-2300-
-Assignments from CIS 2300 
 
 This repository follows my progression of learning python as a new learner during the Baruch College CIS 2300 Course.
 Each assignment revolved around a different aspect of python and was demonstrated in the corresponding week.
