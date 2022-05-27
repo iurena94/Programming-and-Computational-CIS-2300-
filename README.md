@@ -1,9 +1,8 @@
 # Programming-and-Computational-CIS-2300-
 Assignments from CIS 2300 
 
-This repository follows my progression of learning python during the Baruch College CIS 2300 Course.
-Each assignments revolves around a different element in python, beginning with variables and inputs in week 1 and ending with dictionaries in week 13. 
-
+This repository follows my progression of learning python as a new learner during the Baruch College CIS 2300 Course.
+Each assignment revolved around a different aspect of python and was demonstrated in the corresponding week.
 # Topic List:
 
 Week #1: Variables, Strings, Input
